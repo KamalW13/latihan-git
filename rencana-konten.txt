@@ -1,0 +1,5 @@
+Rencana Konten 2023:
+- Python Tutorial
+- HTML Tutorial
+- CSS Tutorial
+- CorelDRAW Tutorial

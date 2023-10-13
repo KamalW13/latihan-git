@@ -3,3 +3,4 @@ Rencana Konten 2023:
 - HTML Tutorial
 - CSS Tutorial
 - CorelDRAW Tutorial
+- CorelDRAW Tips
